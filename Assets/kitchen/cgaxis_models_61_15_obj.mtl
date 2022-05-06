@@ -1,0 +1,81 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 12.10.2015 13:52:57
+
+newmtl cgaxis_models_61_15_04
+	Ns 39.999996
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.047059 0.047059 0.047059
+	Ks 1.080000 1.080000 1.080000
+	Ke 0.000000 0.000000 0.000000
+	map_refl Map__5_Raytrace.tga
+
+newmtl cgaxis_models_61_15_05
+	Ns 59.999996
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.007843 0.007843 0.007843
+	Ks 0.900000 0.900000 0.900000
+	Ke 0.000000 0.000000 0.000000
+
+newmtl cgaxis_models_61_15_03
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.588000 0.588000 0.588000
+	Ks 0.000000 0.000000 0.000000
+	Ke 0.588000 0.588000 0.588000
+	map_Ka H:\CGAxis\Volume61\maps\cgaxis_models_61_15_03.jpg
+	map_Kd H:\CGAxis\Volume61\maps\cgaxis_models_61_15_03.jpg
+
+newmtl cgaxis_models_61_15_02
+	Ns 10.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.693000 0.693000 0.693000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka H:\CGAxis\Volume61\maps\cgaxis_models_61_15_02.jpg
+	map_Kd H:\CGAxis\Volume61\maps\cgaxis_models_61_15_02.jpg
+
+newmtl cgaxis_models_61_15_01
+	Ns 25.000000
+	Ni 1.500000
+	d 1.000000
+	Tr 0.000000
+	Tf 1.000000 1.000000 1.000000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.500000 0.500000 0.500000
+	Ks 0.270000 0.270000 0.270000
+	Ke 0.000000 0.000000 0.000000
+	map_Ka H:\CGAxis\Volume61\maps\cgaxis_models_61_15_01.jpg
+	map_Kd H:\CGAxis\Volume61\maps\cgaxis_models_61_15_01.jpg
+
+newmtl cgaxis_models_61_15_06
+	Ns 70.000000
+	Ni 1.500000
+	d 0.030000
+	Tr 0.970000
+	Tf 0.030000 0.030000 0.030000 
+	illum 2
+	Ka 0.588000 0.588000 0.588000
+	Kd 0.058824 0.058824 0.058824
+	Ks 0.900000 0.900000 0.900000
+	Ke 0.000000 0.000000 0.000000
